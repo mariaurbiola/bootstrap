@@ -1,3 +1,0 @@
-git add . 
-gir comit -m nombreVersion
-git log
